@@ -1,0 +1,11 @@
+VERSÃO DO README — SEM GRÁFICOS, COM MINHA TRAJETÓRIA
+
+1. Descompacte o ZIP.
+2. No repositório github.com/devmariars/devmariars, clique em + pequeno > Carregar arquivos.
+3. Envie de uma só vez os SETE arquivos mr-* (1 GIF + 6 PNGs).
+4. Abra README.md no VS Code e copie TUDO.
+5. No GitHub, abra README.md > lápis > Ctrl+A > cole > confirme as alterações.
+6. Mantenha landing_vangogh_preview.gif no repositório.
+
+Os botões desenhados nas imagens são ilustrativos; abaixo deles há links reais.
+O número de WhatsApp ficará público no perfil.
