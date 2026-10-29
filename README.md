@@ -9,11 +9,13 @@
 
 <img src="./mr-04-tecnologias.png" width="100%" alt="Tecnologias: HTML, CSS, JavaScript, Python, SQL, Git, GitHub e VS Code" />
 
-<a href="https://github.com/devmariars?tab=repositories"><img src="./mr-05-projetos.png" width="100%" alt="Projetos: landing Van Gogh e repositórios" /></a>
+<!-- Cada metade da faixa de projetos tem seu próprio destino. -->
+<a href="https://devmariars.github.io/"><img src="./mr-projetos-landing.png" width="50%" alt="Abrir landing Van Gogh" /></a><a href="https://github.com/devmariars?tab=repositories"><img src="./mr-projetos-repositorios.png" width="50%" alt="Ver meus repositórios" /></a>
 
 <img src="./mr-06-trajetoria.png" width="100%" alt="Minha trajetória: da administração ao Supply Chain, educação e tecnologia. Uma terceira aparição da menina de laço rosa." />
 
-<img src="./mr-07-contatos.png" width="100%" alt="Vamos nos conectar? LinkedIn, GitHub e WhatsApp" />
+<!-- Três botões clicáveis, mantendo a composição da arte. -->
+<a href="https://www.linkedin.com/in/maria-rita-7b1a39382/"><img src="./mr-contato-linkedin.png" width="40%" alt="Visitar LinkedIn" /></a><a href="https://github.com/devmariars"><img src="./mr-contato-github.png" width="20%" alt="Visitar GitHub" /></a><a href="https://wa.me/5535998246162"><img src="./mr-contato-whatsapp.png" width="40%" alt="Abrir WhatsApp" /></a>
 
 <a href="https://devmariars.github.io/"><img src="https://img.shields.io/badge/EXPLORAR_LANDING_VAN_GOGH-FF4FA3?style=for-the-badge" alt="Explorar landing Van Gogh" /></a>
 <a href="https://github.com/devmariars?tab=repositories"><img src="https://img.shields.io/badge/VER_MEUS_PROJETOS-FFB52E?style=for-the-badge&labelColor=101525" alt="Ver projetos" /></a>
