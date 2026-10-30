@@ -20,8 +20,6 @@
 <a href="https://devmariars.github.io/landingpage-mr/"><img src="https://img.shields.io/badge/EXPLORAR_LANDING_VAN_GOGH-FF4FA3?style=for-the-badge" alt="Explorar landing Van Gogh" /></a>
 <a href="https://github.com/devmariars?tab=repositories"><img src="https://img.shields.io/badge/VER_MEUS_PROJETOS-FFB52E?style=for-the-badge&labelColor=101525" alt="Ver projetos" /></a>
 
-**[LinkedIn](https://www.linkedin.com/in/maria-rita-7b1a39382/) · [GitHub](https://github.com/devmariars) · [WhatsApp](https://wa.me/5535998246162)**
-
 </div>
 
 <details>
