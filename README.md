@@ -29,8 +29,3 @@
 <a href="https://devmariars.github.io/landingpage-mr/"><img src="./landing_vangogh_preview.gif" width="95%" alt="Vídeo animado da landing Van Gogh" /></a>
 </div>
 </details>
-
-### 🌌 Estudos de casos
-
-[**AI Career Lab — Simulador de Desafios Profissionais**](https://github.com/devmariars/problem-solving-with-ai/tree/main/ai-career-lab) — Laboratório de simulação profissional com IA, desafios práticos, avaliação técnica e documentação de evidências.
-
